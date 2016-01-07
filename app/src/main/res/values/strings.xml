@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Todo</string>
+
+    <string name="task.create.title">Create a new task</string>
+    <string name="task.title.placeholder">Task title</string>
+    <string name="task.description.placeholder">Task description</string>
+    <string name="task.button.save">Save</string>
+    <string name="task.details.menu.delete">Delete</string>
+
+    <string name="error.input.empty">Title or description is empty</string>
+    <string name="task.title.sample">Lorem Ipsum dolor</string>
+    <string name="task.description.sample">Lorem ipsum dolor ipsum dolor ipsum dolor ipsum dolor ipsum dolor ipsum dolor ipsum dolor ipsum dolor ipsum dolor ipsum dolor ipsum dolor ipsum dolor</string>
+    <string name="tasks.emtpy.content">List of task was empty!</string>
+    <string name="task.create.menu.save">Save</string>
+    <string name="main.menu.settings">Settings</string>
+    <string name="main.menu.refresh">Refresh</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OpenTextView">
+        <attr name="fontVariation" format="enum">
+            <enum name="normal" value="0"/>
+        </attr>
+        <attr name="fixWidowWords" format="boolean"/>
+    </declare-styleable>
+</resources>

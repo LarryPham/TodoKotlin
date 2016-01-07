@@ -1,0 +1,17 @@
+<root>
+    <item name='kotlin.jvm.internal.unsafe.UnsafePackage void monitorExit(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.jvm.internal.unsafe.MonitorKt void monitorExit(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.jvm.internal.unsafe.UnsafePackage void monitorEnter(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.jvm.internal.unsafe.UnsafePackage $moduleName'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.jvm.internal.unsafe.MonitorKt void monitorEnter(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,17 @@
+<root>
+    <item name='kotlin.browser.BrowserKt void setDocument(org.w3c.dom.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.browser.BrowserPackage org.w3c.dom.Document getDocument()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.browser.BrowserPackage void setDocument(org.w3c.dom.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.browser.BrowserPackage $moduleName'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.browser.BrowserKt org.w3c.dom.Document getDocument()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
